@@ -1,13 +1,13 @@
 # Hex Search Alfred Workflow
 
-## Install
+### Install
 
 - Download latest workflow plugin here
 - Unzip and double click the alfredworkflow file.
 - Click the import
-- 
 
-## Usage
+
+### Usage
 
 Type `hex your-query` and hit enter. #boom
 
