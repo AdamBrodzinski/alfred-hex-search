@@ -2,7 +2,7 @@
 
 ### Install
 
-- Download latest workflow plugin here
+- Download latest workflow plugin [here](https://github.com/AdamBrodzinski/alfred-hex-search/archive/1.0.zip)
 - Unzip and double click the alfredworkflow file.
 - Click the import
 
